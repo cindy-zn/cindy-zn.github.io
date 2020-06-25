@@ -1,4 +1,4 @@
-theme: minima
+theme: thelehhman/Texture
 title: RANDOM WALK
 description: This is a random walk. I will explore wherever I reach.
 use_math: true
